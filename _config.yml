@@ -103,5 +103,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 type: git
-repo: https://github.com/lilicoder/lory.github.io.git
+repo: https://github.com/lilicoder/lilicoder.github.io.git
 branch: master
