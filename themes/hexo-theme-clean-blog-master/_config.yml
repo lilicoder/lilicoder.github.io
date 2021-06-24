@@ -1,15 +1,15 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
+  首页: /
+  文章: /archives
+  # 标签: /tags
+  # 分类: /categories
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://github.com/lilicoder/lilicoder.github.io.git
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: 首页
 
 # URL of the Home page image
 index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
@@ -40,7 +40,7 @@ favicon:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/lilicoder/lilicoder.github.io.git
 gitlab_url:
 linkedin_url:
 mailto:
